@@ -1,0 +1,51 @@
+{
+  "admin": [
+    {
+      "user": "admin",
+      "password": "admin"
+    }
+  ],
+  "clientes": [
+    {
+      "userClientes": "diego",
+      "emailClientes": "diego@hotmail.com",
+      "id": 1
+    }
+  ],
+  "libros": [
+    {
+      "nombreLibros": "Harry Potter",
+      "autorLibros": "Escritor 1",
+      "id": 1
+    },
+    {
+      "nombreLibros": "Phasmofobia",
+      "autorLibros": "escritor 2",
+      "id": 2
+    },
+    {
+      "nombreLibros": "asdasd",
+      "autorLibros": "sddddd",
+      "id": 3
+    },
+    {
+      "nombreLibros": "dddd",
+      "autorLibros": "11111111111",
+      "id": 4
+    }
+  ],
+  "alquileres": [
+    {
+      "fechaAlquiler": "2023-12-28",
+      "userCliente": "Facundo Ledesma",
+      "nombreLibro": "Phasmofobia",
+      "id": 1
+    },
+    {
+      "fechaAlquiler": "2023-12-10",
+      "userCliente": "Facundo Ledesma",
+      "nombreLibro": "Harry Potter",
+      "id": 2
+    }
+  ]
+}
